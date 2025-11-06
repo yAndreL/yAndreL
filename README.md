@@ -22,7 +22,7 @@
   <img align="center" alt="Andre-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 
   ##
-<img align="right" alt="Andre-gif" src="https://raw.githubusercontent.com/yAndreL/yAndreL/main/andre.gif" height="150" />
+<img align="center" alt="Andre-gif" src="https://raw.githubusercontent.com/yAndreL/yAndreL/main/andre.gif"  />
 
 </div>
 
@@ -53,5 +53,7 @@
 
 <br clear="both">
 
-![Snakeanimation](https://github.com/yAndreL/yAndreL/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/yAndreL/yAndreL/output/snake.svg" width="100%" alt="Snake animation" />
+
+
 ###
