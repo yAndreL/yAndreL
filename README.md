@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is André and I'm a CP student, from Brazil!</h2>
+<h2 align="center">Hi 👋! My name is André and I'm a CS student, from Brazil!</h2>
 
 ###
 
