@@ -22,7 +22,8 @@
   <img align="center" alt="Andre-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 
   ##
-  <img align="right" alt="Andre-gif" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI0NDEzOTgsIm5iZiI6MTc2MjQ0MTA5OCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTA2VDE0NTgxOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFkNWFjMzdmNWQwOGY4ZGRkZTRkZDI0NWYwNTY2MWVlNWQzYTlhMDE2MzhiNmRkZGQzMzViY2ZlMmRjZWVhNjEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kIqAbHfHHs004t2J5DvBru6uaidi7t-67XAlpzPNmKg"  />
+<img align="right" alt="Andre-gif" src="https://raw.githubusercontent.com/yAndreL/yAndreL/main/andre.gif" height="150" />
+
 </div>
 
 ###
