@@ -52,5 +52,5 @@
 
 <br clear="both">
 
-![Snakeanimation](https://github.com/yandrel/yandrel/blob/output/github-contribution-grid-snake.svg)
+![Snakeanimation](https://github.com/yAndreL/yAndreL/blob/output/github-contribution-grid-snake.svg)
 ###
